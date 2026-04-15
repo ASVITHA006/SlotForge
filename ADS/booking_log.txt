@@ -1,0 +1,36 @@
+Fri Nov 07 06:13:48 2025 | Manual Booking: Room 1, Slot 2
+Fri Nov 07 06:13:48 2025 | Manual Booking: Room 5, Slot 4
+Fri Nov 07 06:13:48 2025 | Manual Booking: Room 1, Slot 3
+Fri Nov 07 06:13:48 2025 | Manual Booking: Room 1, Slot 1
+Fri Nov 07 06:13:48 2025 | Manual Booking: Room 5, Slot 5
+Fri Nov 07 06:13:48 2025 | Manual Booking: Room 4, Slot 2
+Fri Nov 07 06:13:48 2025 | Manual Booking: Room 5, Slot 3
+Fri Nov 07 06:13:48 2025 | Manual Booking: Room 3, Slot 4
+Fri Nov 07 06:13:48 2025 | Manual Booking: Room 2, Slot 3
+Fri Nov 07 06:13:49 2025 | Manual Booking: Room 2, Slot 2
+Fri Nov 07 06:29:12 2025 | Delete: Room 1, Slot 1
+Fri Nov 07 06:29:38 2025 | Delete: Room 1, Slot 2
+Fri Nov 07 06:29:50 2025 | Delete: Room 1, Slot 3
+Fri Nov 07 06:30:03 2025 | Delete: Room 2, Slot 3
+Fri Nov 07 06:30:13 2025 | Delete: Room 2, Slot 2
+Fri Nov 07 06:30:24 2025 | Delete: Room 3, Slot 4
+Fri Nov 07 06:30:37 2025 | Delete: Room 4, Slot 2
+Fri Nov 07 06:30:49 2025 | Delete: Room 5, Slot 3
+Fri Nov 07 06:31:01 2025 | Delete: Room 5, Slot 4
+Fri Nov 07 06:31:12 2025 | Delete: Room 5, Slot 5
+Fri Nov 07 06:31:23 2025 | Smart Booking: Room 1, Slot 1
+Fri Nov 07 06:31:26 2025 | Smart Booking: Room 1, Slot 2
+Fri Nov 07 06:43:33 2025 | Delete: Room 1, Slot 1
+Fri Nov 07 06:43:44 2025 | Delete: Room 1, Slot 2
+Fri Nov 07 06:44:17 2025 | Manual Booking: Room 1, Slot 2
+Fri Nov 07 06:44:17 2025 | Manual Booking: Room 1, Slot 1
+Fri Nov 07 06:44:17 2025 | Manual Booking: Room 2, Slot 3
+Fri Nov 07 06:44:17 2025 | Manual Booking: Room 2, Slot 2
+Fri Nov 07 06:44:17 2025 | Manual Booking: Room 3, Slot 1
+2025-11-07 18:36:05 | Smart Booking: Room 1, Slot 1
+2025-11-07 18:36:29 | Manual Booking: Room 2, Slot 4
+2025-11-07 18:36:29 | Manual Booking: Room 2, Slot 7
+2025-11-07 18:36:29 | Manual Booking: Room 3, Slot 2
+2025-11-07 18:36:29 | Manual Booking: Room 3, Slot 6
+2025-11-07 18:36:29 | Manual Booking: Room 1, Slot 6
+2025-11-07 18:37:12 | Deleted: Room 1, Slot 1
