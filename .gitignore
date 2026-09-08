@@ -1,0 +1,10 @@
+# Compiled executable
+*.exe
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Accidental empty files
+g++
+python
